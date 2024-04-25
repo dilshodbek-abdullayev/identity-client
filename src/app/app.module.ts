@@ -52,6 +52,7 @@ import { MatSnackBar, MatSnackBarModule } from '@angular/material/snack-bar';
   providers: [
     provideAnimationsAsync(),
     provideHttpClient()
+    
   ],
   bootstrap: [AppComponent]
 })
